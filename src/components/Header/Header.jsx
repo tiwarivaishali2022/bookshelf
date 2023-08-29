@@ -11,10 +11,7 @@ const header = () => {
           <Navbar />
           <div className='header-content flex flex-c text-center text-white'>
             <h2 className="header-title text-capitalize"> Find Your Book Of Choice.</h2><br />
-            <p className="header-text fs-18 fw-3">Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Provident quisquam officia ab eius vero ad, dignissimos,
-                sequi laborum hic, repellat tempore asperiores autem. In, quasi! Cum porro
-                optio repellat delectus?
+            <p className="header-text fs-18 fw-3">Many corporations have slick, flashy mission statements that ultimately do little to motivate employees and less to impress customers, investors, and partners.
             </p>
             <SearchForm />
           </div>
